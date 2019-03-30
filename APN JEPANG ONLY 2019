@@ -1,0 +1,81 @@
+APN JEPANG ONLY 2019
+
+Created : Boychongzen aka Xroot
+
+
+APN Setting for LTE NET for DATA
+
+APN name	    : au.au-net.ne.jp
+User name	    : user@au.au-net.ne.jp
+Password	    : au
+Authentication type : CHAP
+
+==============================================
+
+APN：　uno.au-net.ne.jp
+Proxy：
+Port:
+Username：685840734641020@uno.au-net.ne.jp
+Password：KpyrR6BP
+Server:
+MMSC:
+MMS Proxy:
+MMS Port:
+MMS protocol:
+MCC:　　　　　　 440
+MNC:　　　　　　 50
+Authentication type:　CHAP
+APN type:　　　　　　 default,supl,mms,hipri
+APN protocol:　　　　 IPV4V6
+
+==============================================
+
+APN: uno.au-net.ne.jp
+Username: 685840734641020@uno.au-net.ne.jp
+Password: KpyrR6BP
+MCC: 440
+MNC: 50
+Authentication type: CHAP
+APN type: default,supl,mms,hipri
+APN protocol: IPV4V6
+
+==============================================
+
+APN LTE NET
+APN: unitrg.au-net.ne.jp
+Username: X36yN3Dhe9UjPhzm@unitrg.au-net.ne.jp
+Password: KpyrR6BP
+MCC: 440
+MNC: 50
+Authentication type: CHAP
+APN type: dun
+APN protocol: IPV4V6
+
+==============================================
+
+APN: au.au-net.ne.jp
+Username: user@au.au-net.ne.jp
+Password: au
+MCC: 440
+MNC: 50
+Authentication type: CHAP
+APN type: default,supl,mms,hipri
+APN protocol: IPV4V6
+
+==============================================
+
+APN: autrg.au-net.ne.jp
+Username: user@autrg.au-net.ne.jp
+Password: au
+MCC: 440
+MNC: 50
+Authentication type: CHAP
+APN type: dun
+APN protocol: IPV4V6
+
+==============================================
+
+APN: au.au-net.ne.jp
+Username: user@au.au-net.ne.jp
+Password: au
+Authentication type: CHAP
