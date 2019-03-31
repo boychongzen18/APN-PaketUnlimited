@@ -1,0 +1,37 @@
+XL
+
+
+Setting GPRS
+
+Profile Name: XL GPRS
+Data bearer: GPRS
+APN: www.xlgprs.net
+Username: xlgprs
+Password: proxl
+Authentication: Normal
+Homepage: http://wap.xl.co.id
+Gateway IP Address: 202.152.240.50
+Port: 8080
+
+10.8.3.8:80
+
+Setting MMS
+
+Profile Name: XL-MMS
+Data Bearer : GPRS
+APN: www.xlmms.net
+Username : xlgprs
+Password : proxl
+Authentication : Normal
+Homepage : http://mmc.xl.net.id/sevlets/mms
+Gateway IP Address: 202.152.240.50
+
+Setting Internet Unlimited XL
+
+Profile Name: XL Unlimited
+APN: xlunlimited
+Username: kosongkan
+Password: kosongkan
+Dial Up Number: *99#
+
+
