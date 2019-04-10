@@ -1,0 +1,35 @@
+3 (Three)
+
+
+Setting GPRS
+
+Profile Name: 3GPRS
+Data Bearer: GPRS
+APN: 3gprs
+User name: 3gprs
+Password: 3gprs
+Homepage: http://wap.three.co.id
+Proxy Server Address: 10.4.0.10
+Port: 3128
+
+Setting Internet Unlimited
+
+Profile Name: 3DATA
+APN: 3data
+User name: 3data
+Password: 3data
+Autentication: Normal
+Dial Up Number: *99#
+
+Setting MMS
+
+Profile Name: 3MMS
+Data bearer: GPRS
+APN: 3mms
+User name: 3mms
+Password: 3mms
+Authentication: Normal
+Homepage: http://mms.three.co.id
+Proxy Server: 10.4.0.10
+Port: 3128
+
