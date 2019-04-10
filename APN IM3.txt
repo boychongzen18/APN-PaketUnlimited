@@ -1,5 +1,5 @@
 APN Indosat
-4G-advanced.indosatooredoo.com
+
 lte-project.indosat.com
 nd-projects.indosat.com
 ppm.indosat.com
