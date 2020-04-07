@@ -1,0 +1,25 @@
+APN For Nougat
+
+HK LTE DATA
+
+Name : HK LTE
+
+Apn : ipc.lte.three.com.hk
+
+HK DATA
+
+Name : 3HK
+
+Apn : ipc.three.com.hk
+
+CMHK
+
+Name : CMHK
+
+Apn : cmhk
+
+pcl@3g
+
+
+
+
