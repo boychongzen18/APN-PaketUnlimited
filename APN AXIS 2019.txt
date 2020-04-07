@@ -23,3 +23,8 @@ Homepage: http://mmsc.AXIS
 Gateway IP Address: 10.8.3.8
 Port: 8080
 
+Profile Name: Axis
+APN: axis
+Username: pcl@3g
+Password: 123456
+
