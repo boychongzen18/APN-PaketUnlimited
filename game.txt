@@ -1,0 +1,25 @@
+APN Game
+
+
+Name: APN Super Gaming
+
+APN: nxtgenphone
+
+Proxy: 203.6.149.156
+
+Port: 80
+
+Username: Tidak ada
+
+Password: Tidak ada
+
+Server: Kosong
+
+MMSC: mmsc.mobile.att.net
+
+MMS Proxy: proxy.mobile.att.net
+
+MMS Port: 80
+
+(Sisanya biarkan bawaan).
+
